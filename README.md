@@ -32,7 +32,7 @@ The only hiccup was recalling `unordered_map` syntax; once I refreshed that, eve
 Below are screenshots showing that the program compiled and executed successfully:
 
 ### Screenshot 1: Code and Program Output  
-![Execution Screenshot 1](screenshot1.png)
+![Execution Screenshot 1](screenshot 1.png)
 
 ### Screenshot 2: Additional Output Test  
-![Execution Screenshot 2](screenshot2.png)
+![Execution Screenshot 2](screenshot 2.png)
