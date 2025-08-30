@@ -11,7 +11,7 @@ Example:
 **How long did you spend on this assignment?**  
 ~30–45 minutes, including refreshing arrays and maps.
 
-**Based on your effort, what letter grade would you say you earned?**  
+**Based on your effort, what letter grade would you say you earned?** 
 A  
 
 **Based on your solution, what letter grade would you say you earned?**  
